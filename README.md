@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-This project is a simple counter using redux.
+This project is a simple counter using redux.<br />
 ![counter](https://user-images.githubusercontent.com/45441252/147232090-aa1cdfdf-07b7-4cd5-a390-9d8245926862.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
